@@ -1,5 +1,5 @@
 # MathLang: Programming Language Fundamentals Project
-A stack-based language that performs basic mathematic/logic operations.
+A stack-based language that performs basic mathematic/logic operations. Written as the final project for CS 381, Introduction to Programming Language Fundamentals.
 
 ## Team Members
 Name
