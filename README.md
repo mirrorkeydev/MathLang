@@ -2,11 +2,11 @@
 A stack-based language that performs basic mathematic/logic operations.
 
 ## Team Members
-Name			 | ONID Username
-:---------------:|:--------------:
-Melanie Gutzmann | gutzmanm
-Cole Swanson     | swanscol
-Hannah Vaughan   | vaughanh
+Name
+:---------------:|
+Melanie Gutzmann 
+Cole Swanson     
+Hannah Vaughan  
 
 ## Language Introduction
 Our language, named _MathLang_, is a stack-based language with a stack that can have integers, doubles, booleans, tuples, commands, and functions as its values. These values can be pushed onto the stack, and mathematical operations can be performed on the integer, boolean, and tuple values in the stack. Conditional logic allows for differing series of commands to be executed with if/else branching; while loops allow for looping to occur on values on the stack, and tuples can be both constructed and deconstructed to provide invertability. A "Mathlude" contains functions that perform less common mathematical operations, such as `factorial`, `percent`, and `summation`.
