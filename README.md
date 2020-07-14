@@ -5,7 +5,7 @@ A stack-based language that performs basic mathematic/logic operations. Written 
 Name
 :---------------:|
 Melanie Gutzmann 
-Cole Swanson     
+Claire Swanson     
 Hannah Vaughan  
 
 ## Language Introduction
